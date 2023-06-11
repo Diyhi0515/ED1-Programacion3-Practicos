@@ -1,4 +1,4 @@
-package imagenes.Gui;
+package imagenes.Obj.Gui;
 
 import imagenes.Obj.ComandoFiltro;
 import imagenes.Obj.Filtros.*;

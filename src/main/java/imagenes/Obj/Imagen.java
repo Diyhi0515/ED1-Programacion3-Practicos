@@ -125,8 +125,6 @@ public class Imagen {
     public void cambiosImg (){
         observado.firePropertyChange("Imagen", false, true);
     }
-
-
     public void reseteaImagen(){
         pixeles = new int[ancho][alto];
         logger.debug("Se borra la imagen");
